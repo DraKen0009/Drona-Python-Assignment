@@ -13,7 +13,7 @@ Requirements:
 
 ### Output screenshot for Task 1
 
-![image](https://github.com/DraKen0009/Drona-Python-Assignment/assets/115104695/a70608f3-66c3-47f8-b6a0-fae576e81434)
+![image](https://github.com/DraKen0009/Drona-Python-Assignment/assets/115104695/cb97fb93-8e0d-4d11-86c8-206bf40247dd)
 
 
 
@@ -33,7 +33,7 @@ Requirements:
 
 
 ### Output screenshot for Task 2
-![image](https://github.com/DraKen0009/Drona-Python-Assignment/assets/115104695/51742187-b79e-41aa-9881-b8383125853e)
+![image](https://github.com/DraKen0009/Drona-Python-Assignment/assets/115104695/a0ca96ee-3210-47c2-8e83-56779b5e203e)
 
 
 
